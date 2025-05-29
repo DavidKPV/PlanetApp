@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Planets App</string>
+    <string name="splash_icon_description">Descripción de Ícono de Splash</string>
+    <string name="button_register_label">Registrar usuario</string>
+    <string name="name_label">Nombre</string>
+    <string name="lastname_label">Apellido</string>
+    <string name="birthday_label">Fecha de nacimiento</string>
+    <string name="country_label">País</string>
+</resources>
